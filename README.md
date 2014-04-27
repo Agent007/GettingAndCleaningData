@@ -10,6 +10,8 @@ PRE-REQUSITES: The R script relies on the data.table package, so be sure it is i
 
 Below are the exact commands I ran on Mac OS X Mavericks. The commands may be different on your system:
 
+```
 git clone git@github.com:Agent007/GettingAndCleaningData.git ~/Desktop/project
 cd ~/Desktop/project
 r --no-save < run_analysis.R
+```
